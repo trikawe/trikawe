@@ -1,11 +1,11 @@
 
-# 👋 ¡Hola! Soy Matias Aros Montes
+# 👋 ¡Hola! Soy Matías Aros Montes
 
-### 💻 Desarrollo web · 🎨 Creatividad digital · 🤖 Inteligencia artificial
+### 🚀 Desarrollo digital · Creatividad · Tecnología
 
-Soy autodidacta y me apasiona explorar la tecnología, combinar herramientas y transformar ideas en proyectos digitales.
+Soy autodidacta, fundador de **[OrigenNovus](https://origennovus.cl/)** y apasionado por crear cosas que todavía no existen.
 
-A través de **[OrigenNovus](https://origennovus.cl/)**, conecto desarrollo web, diseño, creatividad y experimentación para construir experiencias y soluciones digitales.
+Combino desarrollo web, diseño, animación, estrategia creativa y herramientas digitales para transformar ideas en experiencias y proyectos reales.
 
 📍 Rancagua, Chile 🇨🇱
 
@@ -13,12 +13,12 @@ A través de **[OrigenNovus](https://origennovus.cl/)**, conecto desarrollo web,
 
 ## 🧠 Sobre mí
 
-- 💻 Desarrollo y experimento con tecnologías web.
-- 🎨 Diseño experiencias visuales y contenido digital.
-- 🤖 Exploro herramientas de inteligencia artificial.
-- ⚙️ Conecto plataformas y optimizo flujos de trabajo.
-- 🗂️ Organizo ideas, conocimientos y proyectos digitales.
-- 📚 Aprendo de forma autodidacta, construyendo y experimentando.
+- 💻 Desarrollo experiencias web y herramientas propias.
+- 🎬 Creo animaciones, motion graphics y contenido audiovisual.
+- 🎨 Trabajo en conceptos creativos, identidad visual y diseño digital.
+- 🤖 Exploro herramientas de inteligencia artificial para crear y desarrollar.
+- ⚙️ Conecto plataformas, automatizaciones y servicios digitales.
+- 🧪 Experimento, aprendo y construyo soluciones de forma autodidacta.
 
 ## 💻 Desarrollo web
 
@@ -27,54 +27,80 @@ A través de **[OrigenNovus](https://origennovus.cl/)**, conecto desarrollo web,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-171717?style=for-the-badge&logo=astro&logoColor=FF5D01)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🎨 Diseño y creación de contenido
+## 🎬 Motion, animación y contenido audiovisual
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-111111?style=for-the-badge&logo=capcut&logoColor=white)
+
+## 🎨 Diseño y estrategia creativa
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-111111?style=for-the-badge&logo=capcut&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
 ## 🤖 Inteligencia artificial
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-## 🗂️ Organización y conocimiento
+## 🧠 Organización y productividad
 
 ![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
 
-## ⚙️ Infraestructura y herramientas
+## 🖥️ Infraestructura y ecosistema digital
 
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Proton](https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=proton&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 
-## 🚀 Lo que me gusta construir
+## 📷 Equipamiento y producción
 
-- 🌐 Sitios web y experiencias digitales.
-- 🧰 Herramientas para resolver problemas reales.
-- 🎨 Proyectos que combinan diseño y tecnología.
-- 🤖 Flujos de trabajo apoyados en inteligencia artificial.
-- 🔗 Ecosistemas digitales conectados e integraciones.
-- 🧠 Sistemas personales para organizar información y conocimiento.
-
-## 🎯 En constante evolución
-
-- 📚 Aprender nuevas tecnologías experimentando.
-- 💻 Explorar herramientas y arquitecturas web.
-- 🤖 Descubrir nuevas aplicaciones de la inteligencia artificial.
-- ⚙️ Mejorar procesos mediante automatización.
-- 🚀 Transformar ideas en proyectos funcionales.
+![Canon](https://img.shields.io/badge/Canon-CC0000?style=for-the-badge&logo=canon&logoColor=white)
+![DJI](https://img.shields.io/badge/DJI-000000?style=for-the-badge&logo=dji&logoColor=white)
+![GoPro](https://img.shields.io/badge/GoPro-00AEEF?style=for-the-badge&logo=gopro&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
-### 💡 Mi filosofía
+## 🚀 Proyectos y experimentos
 
-**Aprender haciendo. Conectar ideas. Construir soluciones.**
+### 🌐 OrigenNovus
+Mi estudio creativo: desarrollo web, experiencias digitales, motion, animación y estrategia creativa.
 
-🌐 [OrigenNovus](https://origennovus.cl/)
+### 🧪 Laboratorio digital
+Herramientas gratuitas para imágenes, redes sociales, diseño web y tareas cotidianas.
+
+### 🎮 Alto Voltaje
+Un proyecto de videojuego arcade en pixel art que combina personajes, animación, música y código.
+
+### 🏗️ Proyectos para negocios
+Sitios web, directorios, experiencias interactivas y soluciones digitales para empresas y emprendimientos.
+
+## 📡 Actualmente
+
+- 🌐 Creando experiencias web con Astro y React.
+- 🧰 Desarrollando y mejorando herramientas digitales propias.
+- 🎬 Explorando nuevas posibilidades en animación y contenido visual.
+- 🤖 Incorporando inteligencia artificial a mi proceso creativo y técnico.
+- ⚙️ Mejorando mis flujos de trabajo, infraestructura e integraciones.
+- 📚 Aprendiendo haciendo, proyecto a proyecto.
+
+## 💡 Mi filosofía
+
+**Aprender haciendo. Experimentar con propósito. Crear algo que valga la pena.**
+
+---
+
+🌐 **[OrigenNovus](https://origennovus.cl/)** · Creatividad con criterio. Tecnología con propósito.
