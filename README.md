@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy Matías Aros Montes
+# 👋 ¡Hola! Soy Matias Aros Montes
 
 ### 💻 Desarrollo web · 🎨 Creatividad digital · 🤖 Inteligencia artificial
 
