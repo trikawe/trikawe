@@ -1,87 +1,81 @@
-# 👋 ¡Hola! Soy Matias Aros Montes
+👋 ¡Hola! Soy Matias Aros Montes
 
-💻 Desarrollador independiente · 🎨 Creatividad digital · 🚀 Tecnología
+Desarrollo digital · Creatividad · Tecnología
 
-Me gusta crear cosas, experimentar con tecnologías y explorar distintas formas de hacer realidad una idea. Soy autodidacta y disfruto aprender haciendo, probar herramientas nuevas y meterme en proyectos de diferentes áreas.
+Me gusta crear cosas, explorar tecnologías y encontrar formas interesantes de llevar una idea a la realidad. Soy autodidacta y disfruto aprender haciendo, experimentar con herramientas nuevas y trabajar en proyectos de distintas áreas.
 
-Me muevo entre el desarrollo web, el diseño, la animación y otras áreas del mundo digital. No me cierro a una sola cosa; me gusta explorar y descubrir nuevas posibilidades por el camino.
+Me muevo entre el desarrollo web, el diseño, la animación y la producción digital. Me interesa tanto lo que se ve como lo que hay detrás: cómo funciona, cómo se construye y cómo puede hacerse mejor.
 
 📍 Rancagua, Chile 🇨🇱
 
----
+🧠 Sobre mí
+💻 Desarrollo digital: sitios web, experiencias digitales y herramientas propias.
+🎨 Diseño y creatividad: diseño visual, identidad y exploración gráfica.
+🎬 Animación y audiovisual: animación 3D, motion graphics y producción de contenido.
+🤖 Inteligencia artificial: automatización, herramientas y nuevos flujos de trabajo.
+⚙️ Sistemas e infraestructura: servicios, despliegues e integración de tecnologías.
+🧪 Experimentación: proyectos personales, nuevas ideas y aprendizaje continuo.
+🛠️ Tecnologías y herramientas
 
-## 🧠 Sobre mí
+Un vistazo a las herramientas y tecnologías que forman parte de mi entorno de trabajo.
 
-- 💻 Desarrollo web y proyectos digitales.
-- 🎨 Diseño, animación y motion graphics.
-- 🤖 Inteligencia artificial y automatización.
-- ⚙️ Sistemas, infraestructura y herramientas digitales.
-- 📷 Producción audiovisual y experimentación creativa.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-### 💻 Desarrollo web
+💻 Desarrollo digital
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react,nodejs,git,github,vscode" alt="Desarrollo web y herramientas" />
+<a href="https://astro.build/"><img src="https://img.shields.io/badge/Astro-171717?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" /></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" /></a>
+<a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-### 🎨 Diseño, animación y audiovisual
+🎨 Diseño, animación y creatividad
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" alt="Diseño y producción audiovisual" />
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+<a href="https://inkscape.org/"><img src="https://img.shields.io/badge/Inkscape-222222?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape" /></a>
+<a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+<a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve"><img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" /></a>
 </p>
 
-### 🤖 Inteligencia artificial
+⚙️ Infraestructura y sistemas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Herramientas de inteligencia artificial" />
+<a href="https://ubuntu.com/server"><img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" /></a>
+<a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></a>
+<a href="https://tailscale.com/"><img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" /></a>
 </p>
 
-### ⚙️ Infraestructura y ecosistema digital
+🧠 Organización y ecosistema digital
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,vercel,netlify" alt="Infraestructura y plataformas" />
+<a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" /></a>
+<a href="https://workspace.google.com/"><img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace" /></a>
+<a href="https://analytics.google.com/"><img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" /></a>
 </p>
 
-### 🧠 Organización y productividad
+🚀 Proyectos
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=notion,obsidian" alt="Herramientas de organización" />
-</p>
+Ideas, experimentos y proyectos que forman parte de mi recorrido.
 
-### 🖥️ Equipamiento y producción
+🌐 OrigenNovus — desarrollo digital, creatividad y experiencias visuales.
+🧪 Laboratorio digital — herramientas, utilidades y experimentos propios.
+🎮 Alto Voltaje — videojuego arcade en pixel art, con personajes, animación, música y código.
+💡 Mi enfoque
 
-Tecnología, herramientas y equipo que forman parte de mi entorno de trabajo y mis proyectos creativos.
+Me gusta aprender haciendo, entender cómo funcionan las cosas y explorar distintas maneras de resolver un problema.
 
----
+No se trata de utilizar más herramientas, sino de encontrar las adecuadas para cada idea, experimentar y mejorar en el proceso.
 
-## 🚀 Proyectos
-
-Algunas cosas que voy desarrollando, explorando o llevando adelante.
-
-- 🌐 **OrigenNovus:** mi espacio de trabajo en proyectos digitales y creativos.
-- 🧪 **Laboratorio digital:** ideas, herramientas y experimentos.
-- 🎮 **Alto Voltaje:** exploración de videojuegos, pixel art y desarrollo.
-
----
-
-## 💡 Un poco de mi filosofía
-
-Me gusta aprender haciendo, entender cómo funcionan las cosas y experimentar hasta encontrar una buena solución.
-
-Este perfil es un espacio donde reúno parte de lo que hago, las herramientas que utilizo y las cosas que me interesan.
-
----
+Este perfil reúne parte de lo que construyo, las herramientas que utilizo y las cosas que voy descubriendo por el camino.
 
 <p align="center">
-  <a href="https://origennovus.cl/">
-    <img src="https://img.shields.io/badge/OrigenNovus-Creatividad%20digital-222222?style=for-the-badge" alt="OrigenNovus" />
-  </a>
+<a href="https://origennovus.cl/">
+<img src="https://img.shields.io/badge/ORIGENNOVUS-Creatividad%20con%20criterio%20%2F%20Tecnología%20con%20propósito-202020?style=for-the-badge" alt="OrigenNovus — Creatividad con criterio, tecnología con propósito" />
+</a>
 </p>
 
 <p align="center">
-  <sub>Creatividad, tecnología y exploración digital.</sub>
+<sub>Un espacio para crear, explorar y construir.</sub>
 </p>
